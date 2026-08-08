@@ -5,7 +5,7 @@
 **MassConvert** es una aplicación web moderna, rápida e intuitiva diseñada para realizar conversiones de unidades de masa y peso en tiempo real con precisión. Permite calcular equivalencias de forma bidireccional entre **Kilogramos y Libras**, así como entre **Gramos y Onzas**. Construida con tecnologías web nativas, cuenta con una interfaz de estética **Neumórfica** y soporte para accesibilidad.
 
 <p align="center">
-  <img src="img/conversor_De_Peso.jpg" alt="Vista Conversor de Moneda" width="500">
+  <img src="./img/conversor_De_Moneda.jpg" alt="Vista Conversor de Moneda" width="500">
 </p>
 
 ![Licencia](https://img.shields.io/badge/licencia-MIT-blue.svg)
