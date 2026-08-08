@@ -1,11 +1,11 @@
-# ⚖️ MassConvert — Conversor de Peso & Masa Profesional
+# ⚖️ MassConvert — Conversor de Moneda Profesional
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen?logo=github)](https://WebsByJimenez.github.io/Conversor-de-Moneda-Profesional/)
 
 **MassConvert** es una aplicación web moderna, rápida e intuitiva diseñada para realizar conversiones de unidades de masa y peso en tiempo real con precisión. Permite calcular equivalencias de forma bidireccional entre **Kilogramos y Libras**, así como entre **Gramos y Onzas**. Construida con tecnologías web nativas, cuenta con una interfaz de estética **Neumórfica** y soporte para accesibilidad.
 
 <p align="center">
-  <img src="img/conversor_De_Monedas.jpg" alt="Vista previa del conversor de peso MassConvert" width="500">
+  <img src="./img/conversor_De_Moneda.jpg" alt="Vista previa del conversor de moneda" width="500">
 </p>
 
 ![Licencia](https://img.shields.io/badge/licencia-MIT-blue.svg)
