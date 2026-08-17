@@ -1,17 +1,20 @@
 # ⚖️ MassConvert — Conversor de Moneda Profesional
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen?logo=github)](https://WebsByJimenez.github.io/Conversor-de-Moneda-Profesional/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-green?style=for-the-badge)](./LICENSE)
 
 **MassConvert** es una aplicación web moderna, rápida e intuitiva diseñada para realizar conversiones de unidades de masa y peso en tiempo real con precisión. Permite calcular equivalencias de forma bidireccional entre **Kilogramos y Libras**, así como entre **Gramos y Onzas**. Construida con tecnologías web nativas, cuenta con una interfaz de estética **Neumórfica** y soporte para accesibilidad.
+
+---
 
 <p align="center">
   <img src="./img/conversor_De_Moneda.jpg" alt="Vista previa del conversor de moneda" width="500">
 </p>
 
-![Licencia](https://img.shields.io/badge/licencia-MIT-blue.svg)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen?logo=github)](https://WebsByJimenez.github.io/Conversor-de-Moneda-Profesional/)
 
 ---
 
@@ -45,9 +48,10 @@ MassConvert/
 ├── js/
 │   └── index.js
 ├── img/
-│   └── conversor_De_Monedas.jpg
+│   └── conversor_De_Moneda.jpg
 ├── .gitignore
 ├── index.html
+├── LICENSE
 └── README.md
 ```
 
